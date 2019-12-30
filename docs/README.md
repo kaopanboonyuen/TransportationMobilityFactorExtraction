@@ -2,6 +2,8 @@
 
 Our paper: https://saki.siit.tu.ac.th/stud2019/uploads_final/115__7a3d1d8a58b34f2425f394556c789d6a/Transportation-Mobility-Kantavat.pdf
 
+To see the full recognition results, please visit: www.youtube.com/watch?v=W6WXxBVTKvY
+
 ## Citing
 
 If you find this repository useful, please consider citing it using a link to the repo :)
