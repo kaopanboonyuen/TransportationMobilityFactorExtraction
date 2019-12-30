@@ -43,11 +43,15 @@ You can also download the converted TensorFlow checkpoint file by me via [[Googl
 
 For better understanding of the model architecture, you can refer to the following picture. With great thanks to [Levio](https://blog.csdn.net/leviopku/article/details/82660381) for your excellent work!
 
-![](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r1.png?raw=true)
+![](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r0.png?raw=true)
 
 ### 4. Results
 
 These are some **sample results** form our data set.
+
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
 
 ![](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r2.png?raw=true)
 
