@@ -18,7 +18,7 @@ This project has the following dependencies:
 
 - OpenCV Python `sudo apt-get install python-opencv`
 
-- TensorFlow `sudo pip install --upgrade tensorflow-gpu (>=1.8.0)`
+- TensorFlow `sudo pip install --upgrade tensorflow-gpu (1.8.0 < tf version < 2.0.0)`
 
 ### 2. How to run (Running demos)
 
