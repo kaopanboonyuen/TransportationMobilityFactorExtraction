@@ -3,21 +3,6 @@
 from __future__ import division, print_function
 ## ------------------------ ##
 
-'''
-export PATH="/home/kaochula/anaconda3/bin:$PATH"
-source activate python3
-
-python train.py --checkpoint_path=weights/GCN_Attention
-python train.py 
-
-export PATH="/home/kaochula/anaconda3/bin:$PATH"
-source activate python3
-cd '/home/kaochula/Music/MY_PROJECT/main/tf_slim_v2_september_19-2018' 
-python train.py 
-
-'''
-#from __future__ import print_function
-
 import tensorflow as tf
 import numpy as np
 import argparse
