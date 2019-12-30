@@ -1,2 +1,0 @@
-# TransportationMobilityFactorExtraction
-Transportation Mobility Factor Extraction Using Image Recognition Techniques 
