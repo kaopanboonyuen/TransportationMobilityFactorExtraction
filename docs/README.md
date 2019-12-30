@@ -52,15 +52,18 @@ These are some **sample results** form our data set.
 ![](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r2.png?raw=true)
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r3.jpg">
+  <img width="512" height="544" src="https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r3.jpg">
 </p>
 
-![](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r3.jpg?raw=true)
+<p align="center">
+  <img width="512" height="544" src="https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r4.jpg">
+</p>
 
-![](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r4.jpg?raw=true)
+<p align="center">
+  <img width="512" height="544" src="https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r5.jpg">
+</p>
 
-![](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r5.jpg?raw=true)
-
-![](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r6.jpg?raw=true)
-
+<p align="center">
+  <img width="512" height="544" src="https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r6.jpg">
+</p>
 
