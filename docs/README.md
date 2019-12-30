@@ -1,6 +1,6 @@
 #  Transportation Mobility Factor Extraction Using Image Recognition Techniques 
 
-## Our paper: https://saki.siit.tu.ac.th/stud2019/uploads_final/115__7a3d1d8a58b34f2425f394556c789d6a/Transportation-Mobility-Kantavat.pdf
+Our paper: https://saki.siit.tu.ac.th/stud2019/uploads_final/115__7a3d1d8a58b34f2425f394556c789d6a/Transportation-Mobility-Kantavat.pdf
 
 ## Citing
 
@@ -41,14 +41,20 @@ You can also download the converted TensorFlow checkpoint file by me via [[Googl
 
 For better understanding of the model architecture, you can refer to the following picture. With great thanks to [Levio](https://blog.csdn.net/leviopku/article/details/82660381) for your excellent work!
 
-![](https://github.com/wizyoung/YOLOv3_TensorFlow/blob/master/docs/yolo_v3_architecture.png?raw=true)
+![](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r1.png?raw=true)
 
 ### 4. Results
 
 These are some **sample results** form our data set.
 
-![](https://github.com/wizyoung/YOLOv3_TensorFlow/blob/master/data/demo_data/results/dog.jpg?raw=true)
+![](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r2.png?raw=true)
 
-![](https://github.com/wizyoung/YOLOv3_TensorFlow/blob/master/data/demo_data/results/messi.jpg?raw=true)
+![](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r3.png?raw=true)
 
-![](https://github.com/wizyoung/YOLOv3_TensorFlow/blob/master/data/demo_data/results/kite.jpg?raw=true)
+![](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r4.png?raw=true)
+
+![](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r5.png?raw=true)
+
+![](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r6.png?raw=true)
+
+
