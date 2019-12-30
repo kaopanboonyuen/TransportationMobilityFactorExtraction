@@ -8,7 +8,7 @@ To see the full recognition results, please visit: www.youtube.com/watch?v=W6WXx
 
 If you find this repository useful, please consider citing it using a link to the repo :)
 
-### Original Code from (Credited to) https://github.com/wizyoung/YOLOv3_TensorFlow
+Original Code from (Credited to) https://github.com/wizyoung/YOLOv3_TensorFlow
 
 ### 1. Requirements
 
