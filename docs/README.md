@@ -51,12 +51,12 @@ These are some **sample results** form our data set.
 
 ![](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r2.png?raw=true)
 
-![](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r3.png?raw=true)
+![](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r3.jpg?raw=true)
 
-![](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r4.png?raw=true)
+![](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r4.jpg?raw=true)
 
-![](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r5.png?raw=true)
+![](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r5.jpg?raw=true)
 
-![](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r6.png?raw=true)
+![](https://github.com/kaopanboonyuen/TransportationMobilityFactorExtraction/blob/master/Code/result_on_paper/r6.jpg?raw=true)
 
 
